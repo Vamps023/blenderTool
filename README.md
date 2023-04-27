@@ -12,5 +12,7 @@
         Boom All folder structure created 
 
 
+3)job.bat script that looks for the latest Blender file in the "models" subdirectory, if it exists, or in the current directory if it doesn't exist. It then launches Blender and opens the latest file in the directory where the command prompt was run 
+
 
 Self Use Blender Tool Created By Vamps (Swapnil)
